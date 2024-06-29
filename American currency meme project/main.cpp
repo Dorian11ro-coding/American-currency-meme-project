@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  American currency meme project
-//
-//  Created by Scarlat  Dorian Andrei on 21.01.2024.
-//
-
 #include <iostream>
 #include <string>
 
